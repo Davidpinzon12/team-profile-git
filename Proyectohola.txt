@@ -1,3 +1,3 @@
 Proyecto:
 Aplicación de perfiles del equipo
-Versión: 1.0-juan
+Versión: 2.0-pepe
