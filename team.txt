@@ -1,8 +1,8 @@
 Equipo de Desarrollo
 
 Integrantes:
-1. David Francisco Pinzón Diaz
-2. Tatiana Carolina Cano Ramirez
+1. David Pinzón
+2. Tatiana Cano - Backend
 
 Proyecto:
 Aplicación de perfiles del equipo
